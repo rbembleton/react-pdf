@@ -1,5 +1,5 @@
 {
-  "name": "react-pdf",
+  "name": "@rbembleton/react-pdf",
   "version": "1.6.0",
   "description": "Easily display PDF files in your React application.",
   "main": "es5/react-pdf.js",
